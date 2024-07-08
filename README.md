@@ -8,7 +8,7 @@ This repo hosts samples meant to help design [AI applications built on data from
 
 ### SQL Server + Azure AI Search (formerly Azure Cognitive Service)
 
-The [AVS_SQL_Server_AI_Search](https://github.com/Azure-Samples/SQL-AI-samples/blob/main/AVSSQLServerSample/src/AVS_SQL_Server_AI_Search.ipynb) sample notebook shows an example of using SQL Server as a data source. This is meant to demonstrate the "lift-and-shift" scenario, rather than migrating to PaaS database options. The SQL Server sits in an AVS private cloud and uses Azure Application Gateway with private endpoints and TLS/TCP proxy to avoid exposing the SQL Server with a public endpoint.
+The [AVS_SQL_Server_AI_Search](https://github.com/jhajduk-microsoft/SQL-AI-samples/blob/main/AVSSQLServerSample/src/AVS_SQL_Server_AI_Search.ipynb) sample notebook shows an example of using SQL Server as a data source. This is meant to demonstrate the "lift-and-shift" scenario, rather than migrating to PaaS database options. The SQL Server sits in an AVS private cloud and uses Azure Application Gateway with private endpoints and TLS/TCP proxy to avoid exposing the SQL Server with a public endpoint.
 
 ### Azure SQL + Azure Cognitive Services
 
