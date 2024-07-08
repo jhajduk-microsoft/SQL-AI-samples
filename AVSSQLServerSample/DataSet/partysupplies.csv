@@ -1,0 +1,301 @@
+Id,ProductId,UserId,ProfileName,Score,Time,Summary,Text
+1,P001,ABG53EBZBKD23,Julie Rogers,5,1333929600,Very happy with the quality,These balloons were perfect for our party. They lasted all day and were very colorful.
+2,P002,A1FD9E5C06UB6B,Margaret Murphy,3,1301011200,Highly recommend for parties,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+3,P003,AOVROBZ8BNTP7,Keith Powers,4,1163376000,Kids had a blast,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+4,P004,AB30HQTI5VOLR,Mr. Thomas Johnson,5,1325116800,Worked perfectly,Plates were beautiful and strong. Held up well with all the food we served.
+5,P005,A2AB7M9UCNBVN7,Ashley Lewis,3,1346976000,Perfect for our party theme,The party hats were a hit! Fun designs and fit everyone comfortably.
+6,P001,ABG53EBZBKD23,Ashley Smith,5,1333929600,Loved the bright and fun designs,These balloons were perfect for our party. They lasted all day and were very colorful.
+7,P002,A1FD9E5C06UB6B,Matthew Duffy,3,1301011200,Perfect for our occasion,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+8,P003,AOVROBZ8BNTP7,Cory Clark,4,1163376000,Kids loved it,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+9,P004,AB30HQTI5VOLR,David West,5,1325116800,Perfect party supplies,Plates were beautiful and strong. Held up well with all the food we served.
+10,P005,A2AB7M9UCNBVN7,Jessica Wells,3,1346976000,Great value for the price,The party hats were a hit! Fun designs and fit everyone comfortably.
+11,P001,ABG53EBZBKD23,Colin Nixon,5,1333929600,Just what we needed,These balloons were perfect for our party. They lasted all day and were very colorful.
+12,P002,A1FD9E5C06UB6B,Joshua Castillo,3,1301011200,Kids had a great time,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+13,P003,AOVROBZ8BNTP7,Alexandra Lowery,4,1163376000,Highly recommend for parties,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+14,P004,AB30HQTI5VOLR,Michael Best,5,1325116800,Lots of compliments from guests,Plates were beautiful and strong. Held up well with all the food we served.
+15,P005,A2AB7M9UCNBVN7,Ann Gonzalez,3,1346976000,Great for parties,The party hats were a hit! Fun designs and fit everyone comfortably.
+16,P001,ABG53EBZBKD23,Heather Williamson,5,1333929600,Perfect for our theme party,These balloons were perfect for our party. They lasted all day and were very colorful.
+17,P002,A1FD9E5C06UB6B,Karen Briggs,3,1301011200,Just what we needed,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+18,P003,AOVROBZ8BNTP7,Shawn Small,4,1163376000,Very sturdy,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+19,P004,AB30HQTI5VOLR,Mason White,5,1325116800,Held up great during our event,Plates were beautiful and strong. Held up well with all the food we served.
+20,P005,A2AB7M9UCNBVN7,Scott Case,3,1346976000,Perfect for any celebration,The party hats were a hit! Fun designs and fit everyone comfortably.
+21,P001,ABG53EBZBKD23,James Smith,5,1333929600,Loved the bright designs,These balloons were perfect for our party. They lasted all day and were very colorful.
+22,P002,A1FD9E5C06UB6B,Denise King,3,1301011200,Very colorful and fun,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+23,P003,AOVROBZ8BNTP7,Jonathan Stephens,4,1163376000,Fun and festive,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+24,P004,AB30HQTI5VOLR,Stephen Martinez,5,1325116800,Very festive and fun,Plates were beautiful and strong. Held up well with all the food we served.
+25,P005,A2AB7M9UCNBVN7,Scott Andrews,3,1346976000,Perfect for our celebration,The party hats were a hit! Fun designs and fit everyone comfortably.
+26,P001,ABG53EBZBKD23,Sara Ramos,5,1333929600,Very sturdy and strong,These balloons were perfect for our party. They lasted all day and were very colorful.
+27,P002,A1FD9E5C06UB6B,Kristen Kramer,3,1301011200,Perfect size and shape,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+28,P003,AOVROBZ8BNTP7,Heidi Curtis,4,1163376000,Great for all ages,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+29,P004,AB30HQTI5VOLR,Katrina Jordan,5,1325116800,Exactly what we wanted for our event,Plates were beautiful and strong. Held up well with all the food we served.
+30,P005,A2AB7M9UCNBVN7,Courtney Juarez,3,1346976000,Held up very well,The party hats were a hit! Fun designs and fit everyone comfortably.
+31,P001,ABG53EBZBKD23,Andrea Valenzuela,5,1333929600,Held up great during our event,These balloons were perfect for our party. They lasted all day and were very colorful.
+32,P002,A1FD9E5C06UB6B,Jeremiah Kelly,3,1301011200,Very festive and cheerful,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+33,P003,AOVROBZ8BNTP7,Brandy Chandler,4,1163376000,Very colorful,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+34,P004,AB30HQTI5VOLR,Jennifer Ramirez,5,1325116800,Kids loved the fun colors,Plates were beautiful and strong. Held up well with all the food we served.
+35,P005,A2AB7M9UCNBVN7,Shirley Savage,3,1346976000,Highly recommended,The party hats were a hit! Fun designs and fit everyone comfortably.
+36,P001,ABG53EBZBKD23,Brandon Braun,5,1333929600,Just what we needed for our party,These balloons were perfect for our party. They lasted all day and were very colorful.
+37,P002,A1FD9E5C06UB6B,Daniel Lamb,3,1301011200,Made our event special,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+38,P003,AOVROBZ8BNTP7,Donald Thompson,4,1163376000,Perfect for our occasion,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+39,P004,AB30HQTI5VOLR,Alexander Morris,5,1325116800,Perfect addition to our celebration,Plates were beautiful and strong. Held up well with all the food we served.
+40,P005,A2AB7M9UCNBVN7,Elizabeth Kim,3,1346976000,Exactly as expected,The party hats were a hit! Fun designs and fit everyone comfortably.
+41,P001,ABG53EBZBKD23,Carrie Lewis,5,1333929600,Made our event memorable,These balloons were perfect for our party. They lasted all day and were very colorful.
+42,P002,A1FD9E5C06UB6B,Christian Reid,3,1301011200,Made our party extra special,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+43,P003,AOVROBZ8BNTP7,Jennifer Obrien,4,1163376000,Exactly as described,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+44,P004,AB30HQTI5VOLR,Brittney Wyatt,5,1325116800,Very pleased with the product,Plates were beautiful and strong. Held up well with all the food we served.
+45,P005,A2AB7M9UCNBVN7,Jennifer Sanders,3,1346976000,Easy to use and assemble,The party hats were a hit! Fun designs and fit everyone comfortably.
+46,P001,ABG53EBZBKD23,Angela Barnes,5,1333929600,Better than expected,These balloons were perfect for our party. They lasted all day and were very colorful.
+47,P002,A1FD9E5C06UB6B,Edward Goodwin,3,1301011200,Perfect for outdoor events,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+48,P003,AOVROBZ8BNTP7,Madison White,4,1163376000,Kids had a blast,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+49,P004,AB30HQTI5VOLR,Brian Phillips,5,1325116800,Very happy with the quality,Plates were beautiful and strong. Held up well with all the food we served.
+50,P005,A2AB7M9UCNBVN7,Rebecca Cameron,3,1346976000,Just as pictured,The party hats were a hit! Fun designs and fit everyone comfortably.
+51,P001,ABG53EBZBKD23,William Burke,5,1333929600,Bright and cheerful,These balloons were perfect for our party. They lasted all day and were very colorful.
+52,P002,A1FD9E5C06UB6B,Michael Marshall,3,1301011200,Perfect for adults too,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+53,P003,AOVROBZ8BNTP7,Alicia Adams,4,1163376000,Super easy to use,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+54,P004,AB30HQTI5VOLR,Steven Nelson,5,1325116800,Very festive and cheerful,Plates were beautiful and strong. Held up well with all the food we served.
+55,P005,A2AB7M9UCNBVN7,Lisa Conrad,3,1346976000,Exactly what we wanted for our party,The party hats were a hit! Fun designs and fit everyone comfortably.
+56,P001,ABG53EBZBKD23,Summer Riley,5,1333929600,Great for our theme,These balloons were perfect for our party. They lasted all day and were very colorful.
+57,P002,A1FD9E5C06UB6B,Michael Vincent,3,1301011200,Made our event a success,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+58,P003,AOVROBZ8BNTP7,Sarah Moore,4,1163376000,Great for kids and adults,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+59,P004,AB30HQTI5VOLR,Raymond Hall,5,1325116800,Easy to set up,Plates were beautiful and strong. Held up well with all the food we served.
+60,P005,A2AB7M9UCNBVN7,Matthew Maynard,3,1346976000,Highly recommended,The party hats were a hit! Fun designs and fit everyone comfortably.
+61,P001,ABG53EBZBKD23,Alan Perez,5,1333929600,Exactly what we needed for our event,These balloons were perfect for our party. They lasted all day and were very colorful.
+62,P002,A1FD9E5C06UB6B,David Moore,3,1301011200,Just what we needed for our event,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+63,P003,AOVROBZ8BNTP7,Brittney Harris,4,1163376000,Exactly what we expected,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+64,P004,AB30HQTI5VOLR,Sheila Murphy,5,1325116800,Held up well throughout the party,Plates were beautiful and strong. Held up well with all the food we served.
+65,P005,A2AB7M9UCNBVN7,Amy Lopez,3,1346976000,Just what we needed for our party,The party hats were a hit! Fun designs and fit everyone comfortably.
+66,P001,ABG53EBZBKD23,Eduardo Jensen,5,1333929600,Very sturdy and durable,These balloons were perfect for our party. They lasted all day and were very colorful.
+67,P002,A1FD9E5C06UB6B,Mrs. Kimberly Nguyen,3,1301011200,Exactly as described,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+68,P003,AOVROBZ8BNTP7,Amber Griffin,4,1163376000,Fantastic addition to our event,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+69,P004,AB30HQTI5VOLR,Rachel Stewart,5,1325116800,Great for last-minute parties,Plates were beautiful and strong. Held up well with all the food we served.
+70,P005,A2AB7M9UCNBVN7,Ms. Lindsey Ruiz,3,1346976000,Super easy to use,The party hats were a hit! Fun designs and fit everyone comfortably.
+71,P001,ABG53EBZBKD23,Albert Martinez,5,1333929600,Perfect for adults too,These balloons were perfect for our party. They lasted all day and were very colorful.
+72,P002,A1FD9E5C06UB6B,Miranda Cooley,3,1301011200,Loved the fun designs,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+73,P003,AOVROBZ8BNTP7,Daniel Nichols,4,1163376000,Perfect for our event,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+74,P004,AB30HQTI5VOLR,Cameron Johnston,5,1325116800,Impressed with the quality,Plates were beautiful and strong. Held up well with all the food we served.
+75,P005,A2AB7M9UCNBVN7,Paul Mitchell,3,1346976000,Very satisfied with the quality,The party hats were a hit! Fun designs and fit everyone comfortably.
+76,P001,ABG53EBZBKD23,Troy Mccormick,5,1333929600,Made our event amazing,These balloons were perfect for our party. They lasted all day and were very colorful.
+77,P002,A1FD9E5C06UB6B,Regina Sanchez,3,1301011200,Very pleased with the quality,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+78,P003,AOVROBZ8BNTP7,Phillip Woods,4,1163376000,Very good product,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+79,P004,AB30HQTI5VOLR,Cody Callahan,5,1325116800,Great price for the quality,Plates were beautiful and strong. Held up well with all the food we served.
+80,P005,A2AB7M9UCNBVN7,Alan Jones,3,1346976000,Great for themed events,The party hats were a hit! Fun designs and fit everyone comfortably.
+81,P001,ABG53EBZBKD23,Brandon Martin,5,1333929600,Very happy with this purchase,These balloons were perfect for our party. They lasted all day and were very colorful.
+82,P002,A1FD9E5C06UB6B,Derek Montoya,3,1301011200,Great price for the quality,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+83,P003,AOVROBZ8BNTP7,Lisa Cook,4,1163376000,Kids loved the bright colors,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+84,P004,AB30HQTI5VOLR,Marissa Barnett,5,1325116800,Very colorful and fun,Plates were beautiful and strong. Held up well with all the food we served.
+85,P005,A2AB7M9UCNBVN7,Jacqueline Bell,3,1346976000,Exactly what we hoped for,The party hats were a hit! Fun designs and fit everyone comfortably.
+86,P001,ABG53EBZBKD23,Maria Gonzalez,5,1333929600,Just what we needed,These balloons were perfect for our party. They lasted all day and were very colorful.
+87,P002,A1FD9E5C06UB6B,Yolanda Jones,3,1301011200,Very satisfied with this product,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+88,P003,AOVROBZ8BNTP7,Yesenia Hansen,4,1163376000,Perfect for our celebration,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+89,P004,AB30HQTI5VOLR,Brittney Robinson,5,1325116800,Perfect size and shape,Plates were beautiful and strong. Held up well with all the food we served.
+90,P005,A2AB7M9UCNBVN7,Jim Cruz,3,1346976000,Made our party extra special,The party hats were a hit! Fun designs and fit everyone comfortably.
+91,P001,ABG53EBZBKD23,Alicia Rich,5,1333929600,Wonderful party supplies,These balloons were perfect for our party. They lasted all day and were very colorful.
+92,P002,A1FD9E5C06UB6B,Stephanie Nelson,3,1301011200,Made our event special,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+93,P003,AOVROBZ8BNTP7,Jennifer Jackson,4,1163376000,Great for all kinds of parties,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+94,P004,AB30HQTI5VOLR,Tanya Kelley,5,1325116800,Perfect party supplies,Plates were beautiful and strong. Held up well with all the food we served.
+95,P005,A2AB7M9UCNBVN7,Jacqueline Landry,3,1346976000,Very satisfied with the purchase,The party hats were a hit! Fun designs and fit everyone comfortably.
+96,P001,ABG53EBZBKD23,Ryan Khan,5,1333929600,Highly recommended,These balloons were perfect for our party. They lasted all day and were very colorful.
+97,P002,A1FD9E5C06UB6B,Cynthia Cameron,3,1301011200,Very satisfied with this product,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+98,P003,AOVROBZ8BNTP7,Kelsey Garrison,4,1163376000,Loved the bright and fun colors,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+99,P004,AB30HQTI5VOLR,Lisa Johnson,5,1325116800,Perfect for our needs,Plates were beautiful and strong. Held up well with all the food we served.
+100,P005,A2AB7M9UCNBVN7,Shannon Mayo,3,1346976000,Perfect addition to our celebration,The party hats were a hit! Fun designs and fit everyone comfortably.
+101,P001,ABG53EBZBKD23,George Jackson,5,1333929600,High-quality and durable,These balloons were perfect for our party. They lasted all day and were very colorful.
+102,P002,A1FD9E5C06UB6B,Katherine Mullins,3,1301011200,Exactly what we were hoping for,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+103,P003,AOVROBZ8BNTP7,Stephanie Ibarra,4,1163376000,Held up well throughout the party,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+104,P004,AB30HQTI5VOLR,Stacey Pena,5,1325116800,Very colorful,Plates were beautiful and strong. Held up well with all the food we served.
+105,P005,A2AB7M9UCNBVN7,Emma Cox,3,1346976000,Super easy to use,The party hats were a hit! Fun designs and fit everyone comfortably.
+106,P001,ABG53EBZBKD23,Susan Stewart,5,1333929600,Just what we needed for our event,These balloons were perfect for our party. They lasted all day and were very colorful.
+107,P002,A1FD9E5C06UB6B,Randall Lambert,3,1301011200,Wonderful party supplies,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+108,P003,AOVROBZ8BNTP7,Samuel Davies,4,1163376000,Worked well for our event,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+109,P004,AB30HQTI5VOLR,Stephen Thompson,5,1325116800,Added a lot of joy,Plates were beautiful and strong. Held up well with all the food we served.
+110,P005,A2AB7M9UCNBVN7,Elizabeth Harvey,3,1346976000,Super easy to put together,The party hats were a hit! Fun designs and fit everyone comfortably.
+111,P001,ABG53EBZBKD23,Michelle Pope,5,1333929600,Perfect for our event,These balloons were perfect for our party. They lasted all day and were very colorful.
+112,P002,A1FD9E5C06UB6B,Miranda Henderson,3,1301011200,Great price for the quality,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+113,P003,AOVROBZ8BNTP7,Michael Fowler,4,1163376000,Made our party great,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+114,P004,AB30HQTI5VOLR,David Rivera,5,1325116800,Well worth the money,Plates were beautiful and strong. Held up well with all the food we served.
+115,P005,A2AB7M9UCNBVN7,Steven Wyatt,3,1346976000,Kids had a blast with it,The party hats were a hit! Fun designs and fit everyone comfortably.
+116,P001,ABG53EBZBKD23,David Walker PhD,5,1333929600,Made our party extra fun,These balloons were perfect for our party. They lasted all day and were very colorful.
+117,P002,A1FD9E5C06UB6B,Jimmy Stevens,3,1301011200,Would purchase again,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+118,P003,AOVROBZ8BNTP7,Aaron Reyes,4,1163376000,Very happy with the quality,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+119,P004,AB30HQTI5VOLR,Richard Williams,5,1325116800,Great for our theme,Plates were beautiful and strong. Held up well with all the food we served.
+120,P005,A2AB7M9UCNBVN7,Kim Henderson,3,1346976000,Held up well,The party hats were a hit! Fun designs and fit everyone comfortably.
+121,P001,ABG53EBZBKD23,Brianna Vance,5,1333929600,Made our event so much fun,These balloons were perfect for our party. They lasted all day and were very colorful.
+122,P002,A1FD9E5C06UB6B,Paul Howell,3,1301011200,Very colorful,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+123,P003,AOVROBZ8BNTP7,Allison Duncan,4,1163376000,Very sturdy and durable,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+124,P004,AB30HQTI5VOLR,Gloria Poole,5,1325116800,Loved the bright and fun colors,Plates were beautiful and strong. Held up well with all the food we served.
+125,P005,A2AB7M9UCNBVN7,Dana Campos,3,1346976000,Amazing party decoration,The party hats were a hit! Fun designs and fit everyone comfortably.
+126,P001,ABG53EBZBKD23,Mrs. Robin Foster MD,5,1333929600,Worked out great,These balloons were perfect for our party. They lasted all day and were very colorful.
+127,P002,A1FD9E5C06UB6B,Adrian Murillo,3,1301011200,Beautiful design and colors,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+128,P003,AOVROBZ8BNTP7,Sara Ramirez,4,1163376000,Great for kids and adults,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+129,P004,AB30HQTI5VOLR,Richard Mcclure,5,1325116800,Loved the bright and fun designs,Plates were beautiful and strong. Held up well with all the food we served.
+130,P005,A2AB7M9UCNBVN7,Matthew Payne,3,1346976000,Made our event special,The party hats were a hit! Fun designs and fit everyone comfortably.
+131,P001,ABG53EBZBKD23,Randy Sanford,5,1333929600,Exactly what we wanted,These balloons were perfect for our party. They lasted all day and were very colorful.
+132,P002,A1FD9E5C06UB6B,Tracey Norris,3,1301011200,Added a festive touch,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+133,P003,AOVROBZ8BNTP7,Candace Baker,4,1163376000,Perfect for our event,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+134,P004,AB30HQTI5VOLR,Juan Hancock,5,1325116800,Held up well during our event,Plates were beautiful and strong. Held up well with all the food we served.
+135,P005,A2AB7M9UCNBVN7,Lawrence Martinez PhD,3,1346976000,Kids loved it,The party hats were a hit! Fun designs and fit everyone comfortably.
+136,P001,ABG53EBZBKD23,Michael Cole,5,1333929600,Kids enjoyed it,These balloons were perfect for our party. They lasted all day and were very colorful.
+137,P002,A1FD9E5C06UB6B,Jennifer Mejia,3,1301011200,Will definitely buy again,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+138,P003,AOVROBZ8BNTP7,Raymond Fowler,4,1163376000,Very happy with this product,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+139,P004,AB30HQTI5VOLR,Mark Berger,5,1325116800,Perfect for our needs,Plates were beautiful and strong. Held up well with all the food we served.
+140,P005,A2AB7M9UCNBVN7,Linda Ali,3,1346976000,Colorful and fun,The party hats were a hit! Fun designs and fit everyone comfortably.
+141,P001,ABG53EBZBKD23,Beth Reynolds MD,5,1333929600,Very easy to use,These balloons were perfect for our party. They lasted all day and were very colorful.
+142,P002,A1FD9E5C06UB6B,Hannah Bell,3,1301011200,Just what we needed for our party,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+143,P003,AOVROBZ8BNTP7,Kelsey Williams,4,1163376000,Great price for the quality,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+144,P004,AB30HQTI5VOLR,Michelle Simmons,5,1325116800,Made our party extra fun,Plates were beautiful and strong. Held up well with all the food we served.
+145,P005,A2AB7M9UCNBVN7,Jesse Bartlett,3,1346976000,Perfect party supplies,The party hats were a hit! Fun designs and fit everyone comfortably.
+146,P001,ABG53EBZBKD23,Antonio Hall,5,1333929600,Lovely and charming,These balloons were perfect for our party. They lasted all day and were very colorful.
+147,P002,A1FD9E5C06UB6B,Kelly Murray,3,1301011200,Very colorful,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+148,P003,AOVROBZ8BNTP7,Christopher Lee,4,1163376000,Very festive and cheerful,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+149,P004,AB30HQTI5VOLR,Wendy Miller,5,1325116800,Lots of compliments from guests,Plates were beautiful and strong. Held up well with all the food we served.
+150,P005,A2AB7M9UCNBVN7,Wayne Gutierrez,3,1346976000,Impressed with the quality,The party hats were a hit! Fun designs and fit everyone comfortably.
+151,P001,ABG53EBZBKD23,Mrs. Leslie Smith PhD,5,1333929600,Great for all kinds of parties,These balloons were perfect for our party. They lasted all day and were very colorful.
+152,P002,A1FD9E5C06UB6B,Richard Roth,3,1301011200,Great for parties,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+153,P003,AOVROBZ8BNTP7,Melissa Burke,4,1163376000,Great for our needs,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+154,P004,AB30HQTI5VOLR,Kimberly Pruitt,5,1325116800,Very pleased with this product,Plates were beautiful and strong. Held up well with all the food we served.
+155,P005,A2AB7M9UCNBVN7,Paul Ellis,3,1346976000,High-quality materials,The party hats were a hit! Fun designs and fit everyone comfortably.
+156,P001,ABG53EBZBKD23,Andrew Payne,5,1333929600,Worked perfectly,These balloons were perfect for our party. They lasted all day and were very colorful.
+157,P002,A1FD9E5C06UB6B,Steve Blevins,3,1301011200,Fun and festive,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+158,P003,AOVROBZ8BNTP7,Lucas Moss,4,1163376000,Very sturdy,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+159,P004,AB30HQTI5VOLR,Eric Peterson,5,1325116800,Better than expected,Plates were beautiful and strong. Held up well with all the food we served.
+160,P005,A2AB7M9UCNBVN7,Jamie Sanford,3,1346976000,Just what we needed,The party hats were a hit! Fun designs and fit everyone comfortably.
+161,P001,ABG53EBZBKD23,Melissa Ford,5,1333929600,Will definitely buy again,These balloons were perfect for our party. They lasted all day and were very colorful.
+162,P002,A1FD9E5C06UB6B,Elizabeth Santiago,3,1301011200,Kids enjoyed it a lot,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+163,P003,AOVROBZ8BNTP7,Sherri Arnold,4,1163376000,Exactly as described,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+164,P004,AB30HQTI5VOLR,George Gallagher,5,1325116800,Made our event memorable,Plates were beautiful and strong. Held up well with all the food we served.
+165,P005,A2AB7M9UCNBVN7,Curtis Mora,3,1346976000,Very satisfied with the quality,The party hats were a hit! Fun designs and fit everyone comfortably.
+166,P001,ABG53EBZBKD23,Charles Moore,5,1333929600,Will definitely buy again,These balloons were perfect for our party. They lasted all day and were very colorful.
+167,P002,A1FD9E5C06UB6B,Michael Stein,3,1301011200,Arrived quickly,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+168,P003,AOVROBZ8BNTP7,Dr. Amanda Lopez,4,1163376000,Made our party extra fun,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+169,P004,AB30HQTI5VOLR,Richard Murphy,5,1325116800,Lovely and charming,Plates were beautiful and strong. Held up well with all the food we served.
+170,P005,A2AB7M9UCNBVN7,Sandra Lambert,3,1346976000,Great assortment of items,The party hats were a hit! Fun designs and fit everyone comfortably.
+171,P001,ABG53EBZBKD23,Michael Fernandez,5,1333929600,Very festive and cheerful,These balloons were perfect for our party. They lasted all day and were very colorful.
+172,P002,A1FD9E5C06UB6B,Rebecca Young,3,1301011200,Great quality for the price,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+173,P003,AOVROBZ8BNTP7,Sherri Walker,4,1163376000,Loved it,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+174,P004,AB30HQTI5VOLR,Jamie Parker,5,1325116800,Exactly what we needed for our event,Plates were beautiful and strong. Held up well with all the food we served.
+175,P005,A2AB7M9UCNBVN7,Erika Benitez,3,1346976000,Held up great during our event,The party hats were a hit! Fun designs and fit everyone comfortably.
+176,P001,ABG53EBZBKD23,Alexa Murray,5,1333929600,Added excitement to the party,These balloons were perfect for our party. They lasted all day and were very colorful.
+177,P002,A1FD9E5C06UB6B,Justin Turner,3,1301011200,Great for all ages,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+178,P003,AOVROBZ8BNTP7,Jennifer Lee,4,1163376000,Held up through the whole party,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+179,P004,AB30HQTI5VOLR,Linda Moran,5,1325116800,Kids had so much fun,Plates were beautiful and strong. Held up well with all the food we served.
+180,P005,A2AB7M9UCNBVN7,Deborah Gentry,3,1346976000,Worked perfectly for our party,The party hats were a hit! Fun designs and fit everyone comfortably.
+181,P001,ABG53EBZBKD23,Russell Taylor,5,1333929600,Great for kids and adults,These balloons were perfect for our party. They lasted all day and were very colorful.
+182,P002,A1FD9E5C06UB6B,Samuel Garcia,3,1301011200,Perfect for our event,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+183,P003,AOVROBZ8BNTP7,James Gonzales,4,1163376000,Just what we wanted for our party,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+184,P004,AB30HQTI5VOLR,William Baxter,5,1325116800,Great for all ages,Plates were beautiful and strong. Held up well with all the food we served.
+185,P005,A2AB7M9UCNBVN7,Donald Willis,3,1346976000,Great for the price,The party hats were a hit! Fun designs and fit everyone comfortably.
+186,P001,ABG53EBZBKD23,Susan Hodge,5,1333929600,Fun and festive,These balloons were perfect for our party. They lasted all day and were very colorful.
+187,P002,A1FD9E5C06UB6B,Kevin Frazier,3,1301011200,Perfect addition to our celebration,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+188,P003,AOVROBZ8BNTP7,Diana White,4,1163376000,Added a lot of fun,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+189,P004,AB30HQTI5VOLR,Joanne Stokes,5,1325116800,Added excitement to the party,Plates were beautiful and strong. Held up well with all the food we served.
+190,P005,A2AB7M9UCNBVN7,Keith Ball,3,1346976000,Super cute and fun,The party hats were a hit! Fun designs and fit everyone comfortably.
+191,P001,ABG53EBZBKD23,David Gonzalez,5,1333929600,Perfect party supplies,These balloons were perfect for our party. They lasted all day and were very colorful.
+192,P002,A1FD9E5C06UB6B,Christina Pratt,3,1301011200,Kids had a blast,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+193,P003,AOVROBZ8BNTP7,Michael Johnson,4,1163376000,Added a lot of fun,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+194,P004,AB30HQTI5VOLR,Andrea Ortega,5,1325116800,Just what we needed for our celebration,Plates were beautiful and strong. Held up well with all the food we served.
+195,P005,A2AB7M9UCNBVN7,Robert Beard,3,1346976000,Exactly what we were looking for,The party hats were a hit! Fun designs and fit everyone comfortably.
+196,P001,ABG53EBZBKD23,Megan Henry,5,1333929600,Perfect addition to our celebration,These balloons were perfect for our party. They lasted all day and were very colorful.
+197,P002,A1FD9E5C06UB6B,George Keller,3,1301011200,Just what we needed for our party,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+198,P003,AOVROBZ8BNTP7,Christopher Crane,4,1163376000,Guests were impressed,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+199,P004,AB30HQTI5VOLR,Harry Williams,5,1325116800,Very satisfied with this product,Plates were beautiful and strong. Held up well with all the food we served.
+200,P005,A2AB7M9UCNBVN7,Dana Gardner,3,1346976000,Kids had so much fun with it,The party hats were a hit! Fun designs and fit everyone comfortably.
+201,P001,ABG53EBZBKD23,Katherine Jones,5,1333929600,Perfect for our needs,These balloons were perfect for our party. They lasted all day and were very colorful.
+202,P002,A1FD9E5C06UB6B,Deanna Grant,3,1301011200,Exactly what we were hoping for,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+203,P003,AOVROBZ8BNTP7,Sarah Thompson,4,1163376000,Exactly what we wanted for our event,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+204,P004,AB30HQTI5VOLR,Drew Obrien,5,1325116800,Easy to set up,Plates were beautiful and strong. Held up well with all the food we served.
+205,P005,A2AB7M9UCNBVN7,Heather Miller,3,1346976000,Kids enjoyed it,The party hats were a hit! Fun designs and fit everyone comfortably.
+206,P001,ABG53EBZBKD23,Amber Brown,5,1333929600,Lovely and charming,These balloons were perfect for our party. They lasted all day and were very colorful.
+207,P002,A1FD9E5C06UB6B,Ashley Perez,3,1301011200,Great for the price,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+208,P003,AOVROBZ8BNTP7,Kevin Park,4,1163376000,Bright and vibrant colors,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+209,P004,AB30HQTI5VOLR,Angela Rodgers,5,1325116800,Highly recommended,Plates were beautiful and strong. Held up well with all the food we served.
+210,P005,A2AB7M9UCNBVN7,Danielle Simmons,3,1346976000,Just what we wanted for our party,The party hats were a hit! Fun designs and fit everyone comfortably.
+211,P001,ABG53EBZBKD23,Richard Hanson,5,1333929600,Great price for the quality,These balloons were perfect for our party. They lasted all day and were very colorful.
+212,P002,A1FD9E5C06UB6B,Jack Parsons,3,1301011200,Exactly what we needed for our event,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+213,P003,AOVROBZ8BNTP7,Terry Dean,4,1163376000,Very good product,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+214,P004,AB30HQTI5VOLR,William Clements,5,1325116800,Perfect party supplies,Plates were beautiful and strong. Held up well with all the food we served.
+215,P005,A2AB7M9UCNBVN7,Dawn Arnold,3,1346976000,Perfect for our celebration,The party hats were a hit! Fun designs and fit everyone comfortably.
+216,P001,ABG53EBZBKD23,Douglas Gibson,5,1333929600,Great for all kinds of parties,These balloons were perfect for our party. They lasted all day and were very colorful.
+217,P002,A1FD9E5C06UB6B,Courtney Holmes,3,1301011200,Exactly what we expected,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+218,P003,AOVROBZ8BNTP7,Charles Berry,4,1163376000,Just what we needed for our celebration,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+219,P004,AB30HQTI5VOLR,Donald Hopkins,5,1325116800,Very festive and fun,Plates were beautiful and strong. Held up well with all the food we served.
+220,P005,A2AB7M9UCNBVN7,Taylor Freeman,3,1346976000,Held up well during the party,The party hats were a hit! Fun designs and fit everyone comfortably.
+221,P001,ABG53EBZBKD23,Toni Brewer,5,1333929600,Perfect for our needs,These balloons were perfect for our party. They lasted all day and were very colorful.
+222,P002,A1FD9E5C06UB6B,Austin Torres,3,1301011200,Exactly as expected,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+223,P003,AOVROBZ8BNTP7,Ashley Clark,4,1163376000,Perfect for our theme party,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+224,P004,AB30HQTI5VOLR,Cesar Flores,5,1325116800,Super easy to put together,Plates were beautiful and strong. Held up well with all the food we served.
+225,P005,A2AB7M9UCNBVN7,Ashley Perez,3,1346976000,Added a festive touch,The party hats were a hit! Fun designs and fit everyone comfortably.
+226,P001,ABG53EBZBKD23,Tyler Lopez,5,1333929600,Kids loved the bright colors,These balloons were perfect for our party. They lasted all day and were very colorful.
+227,P002,A1FD9E5C06UB6B,Paul Walker MD,3,1301011200,Made our party great,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+228,P003,AOVROBZ8BNTP7,Joshua Mitchell,4,1163376000,Great for parties,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+229,P004,AB30HQTI5VOLR,Brenda Bell,5,1325116800,Very festive and fun,Plates were beautiful and strong. Held up well with all the food we served.
+230,P005,A2AB7M9UCNBVN7,Darlene Walker,3,1346976000,Very happy with this product,The party hats were a hit! Fun designs and fit everyone comfortably.
+231,P001,ABG53EBZBKD23,Daniel Rowe,5,1333929600,Easy to use and assemble,These balloons were perfect for our party. They lasted all day and were very colorful.
+232,P002,A1FD9E5C06UB6B,Rebecca Obrien,3,1301011200,Brightened up the room,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+233,P003,AOVROBZ8BNTP7,Mrs. Kimberly Hernandez,4,1163376000,Added a lot of fun to our party,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+234,P004,AB30HQTI5VOLR,Glenn Patterson,5,1325116800,Perfect for our event,Plates were beautiful and strong. Held up well with all the food we served.
+235,P005,A2AB7M9UCNBVN7,Cassandra Gray,3,1346976000,Arrived quickly,The party hats were a hit! Fun designs and fit everyone comfortably.
+236,P001,ABG53EBZBKD23,Mark Taylor,5,1333929600,High-quality materials,These balloons were perfect for our party. They lasted all day and were very colorful.
+237,P002,A1FD9E5C06UB6B,Holly Brown,3,1301011200,Super easy to set up,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+238,P003,AOVROBZ8BNTP7,Erica Martin,4,1163376000,Great for themed events,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+239,P004,AB30HQTI5VOLR,Jacqueline Gonzalez,5,1325116800,Perfect for all ages,Plates were beautiful and strong. Held up well with all the food we served.
+240,P005,A2AB7M9UCNBVN7,Alec Lee,3,1346976000,Perfect for our occasion,The party hats were a hit! Fun designs and fit everyone comfortably.
+241,P001,ABG53EBZBKD23,April Fletcher,5,1333929600,Perfect party supplies,These balloons were perfect for our party. They lasted all day and were very colorful.
+242,P002,A1FD9E5C06UB6B,Todd Davis,3,1301011200,Kids loved the bright colors,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+243,P003,AOVROBZ8BNTP7,Justin Miller,4,1163376000,Perfect touch for our party,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+244,P004,AB30HQTI5VOLR,Matthew Cook,5,1325116800,Very festive and cheerful,Plates were beautiful and strong. Held up well with all the food we served.
+245,P005,A2AB7M9UCNBVN7,Shannon Cardenas,3,1346976000,Great for kids' parties,The party hats were a hit! Fun designs and fit everyone comfortably.
+246,P001,ABG53EBZBKD23,Tiffany Pham,5,1333929600,Very pleased with the quality,These balloons were perfect for our party. They lasted all day and were very colorful.
+247,P002,A1FD9E5C06UB6B,Elizabeth Wells,3,1301011200,Arrived quickly,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+248,P003,AOVROBZ8BNTP7,Michael Hall,4,1163376000,Made our event amazing,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+249,P004,AB30HQTI5VOLR,Glen Baker,5,1325116800,Perfect for our event,Plates were beautiful and strong. Held up well with all the food we served.
+250,P005,A2AB7M9UCNBVN7,Rachel Peterson,3,1346976000,Would purchase again,The party hats were a hit! Fun designs and fit everyone comfortably.
+251,P001,ABG53EBZBKD23,Robert Melton,5,1333929600,Great for last-minute parties,These balloons were perfect for our party. They lasted all day and were very colorful.
+252,P002,A1FD9E5C06UB6B,Michael Bush,3,1301011200,Super easy to put together,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+253,P003,AOVROBZ8BNTP7,Michael Wilson,4,1163376000,Perfect for themed parties,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+254,P004,AB30HQTI5VOLR,Monique Houston,5,1325116800,Very good product,Plates were beautiful and strong. Held up well with all the food we served.
+255,P005,A2AB7M9UCNBVN7,Andre Lopez,3,1346976000,Very satisfied with this product,The party hats were a hit! Fun designs and fit everyone comfortably.
+256,P001,ABG53EBZBKD23,Shannon Cruz,5,1333929600,Very satisfied with this product,These balloons were perfect for our party. They lasted all day and were very colorful.
+257,P002,A1FD9E5C06UB6B,Kimberly Lopez,3,1301011200,Perfect for themed parties,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+258,P003,AOVROBZ8BNTP7,Christopher Grimes,4,1163376000,Lovely and charming,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+259,P004,AB30HQTI5VOLR,Aaron Costa,5,1325116800,Great price for the quality,Plates were beautiful and strong. Held up well with all the food we served.
+260,P005,A2AB7M9UCNBVN7,Robert Jones,3,1346976000,Very festive and cheerful,The party hats were a hit! Fun designs and fit everyone comfortably.
+261,P001,ABG53EBZBKD23,Frederick Johnson,5,1333929600,Loved the bright and fun designs,These balloons were perfect for our party. They lasted all day and were very colorful.
+262,P002,A1FD9E5C06UB6B,Peter Chase,3,1301011200,Loved the bright and fun designs,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+263,P003,AOVROBZ8BNTP7,Derek Daniels,4,1163376000,Bright and cheerful,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+264,P004,AB30HQTI5VOLR,Gerald Jones,5,1325116800,Perfect for large gatherings,Plates were beautiful and strong. Held up well with all the food we served.
+265,P005,A2AB7M9UCNBVN7,Diane Martin,3,1346976000,Kids had so much fun with it,The party hats were a hit! Fun designs and fit everyone comfortably.
+266,P001,ABG53EBZBKD23,Christina Rodriguez,5,1333929600,Made our event memorable,These balloons were perfect for our party. They lasted all day and were very colorful.
+267,P002,A1FD9E5C06UB6B,Sara Petersen,3,1301011200,Great for our theme,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+268,P003,AOVROBZ8BNTP7,Sabrina Patel,4,1163376000,Exactly what we needed for our event,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+269,P004,AB30HQTI5VOLR,Danielle Mcclain,5,1325116800,Very satisfied with the quality,Plates were beautiful and strong. Held up well with all the food we served.
+270,P005,A2AB7M9UCNBVN7,Teresa Burgess,3,1346976000,Perfect for any celebration,The party hats were a hit! Fun designs and fit everyone comfortably.
+271,P001,ABG53EBZBKD23,Brittany Kramer,5,1333929600,Perfect for our celebration,These balloons were perfect for our party. They lasted all day and were very colorful.
+272,P002,A1FD9E5C06UB6B,Christopher Deleon,3,1301011200,Would purchase again,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+273,P003,AOVROBZ8BNTP7,Angela Serrano,4,1163376000,Kids had a great time with it,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+274,P004,AB30HQTI5VOLR,Carrie Thomas,5,1325116800,Perfect for our party theme,Plates were beautiful and strong. Held up well with all the food we served.
+275,P005,A2AB7M9UCNBVN7,Cynthia Jones,3,1346976000,Great assortment of items,The party hats were a hit! Fun designs and fit everyone comfortably.
+276,P001,ABG53EBZBKD23,Russell Ryan,5,1333929600,Met all our needs,These balloons were perfect for our party. They lasted all day and were very colorful.
+277,P002,A1FD9E5C06UB6B,Thomas Gonzales,3,1301011200,Made our party planning easier,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+278,P003,AOVROBZ8BNTP7,Chelsea White DDS,4,1163376000,Just what we needed for our party,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+279,P004,AB30HQTI5VOLR,Latasha Thomas,5,1325116800,Held up great,Plates were beautiful and strong. Held up well with all the food we served.
+280,P005,A2AB7M9UCNBVN7,Raymond Allen,3,1346976000,Held up very well,The party hats were a hit! Fun designs and fit everyone comfortably.
+281,P001,ABG53EBZBKD23,Bridget Adams,5,1333929600,Just what we needed for our celebration,These balloons were perfect for our party. They lasted all day and were very colorful.
+282,P002,A1FD9E5C06UB6B,Ethan Chang,3,1301011200,Great for kids' parties,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+283,P003,AOVROBZ8BNTP7,Christine Jones,4,1163376000,Kids enjoyed it a lot,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+284,P004,AB30HQTI5VOLR,Mark Prince,5,1325116800,Great price for the quality,Plates were beautiful and strong. Held up well with all the food we served.
+285,P005,A2AB7M9UCNBVN7,Christian Smith,3,1346976000,Perfect addition to our party,The party hats were a hit! Fun designs and fit everyone comfortably.
+286,P001,ABG53EBZBKD23,Nicolas Hughes,5,1333929600,Worked perfectly for our theme,These balloons were perfect for our party. They lasted all day and were very colorful.
+287,P002,A1FD9E5C06UB6B,Lisa Gardner,3,1301011200,Just what we needed for our party,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+288,P003,AOVROBZ8BNTP7,Angelica Franklin,4,1163376000,Perfect size and shape,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+289,P004,AB30HQTI5VOLR,Jason Brooks,5,1325116800,Kids had so much fun,Plates were beautiful and strong. Held up well with all the food we served.
+290,P005,A2AB7M9UCNBVN7,Michael Dickerson,3,1346976000,Kids had a blast,The party hats were a hit! Fun designs and fit everyone comfortably.
+291,P001,ABG53EBZBKD23,Ashley Phillips,5,1333929600,Amazing party decoration,These balloons were perfect for our party. They lasted all day and were very colorful.
+292,P002,A1FD9E5C06UB6B,Austin Miller,3,1301011200,Kids loved the fun colors,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+293,P003,AOVROBZ8BNTP7,Ryan Miranda,4,1163376000,Very happy with the quality,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+294,P004,AB30HQTI5VOLR,Traci Hayes,5,1325116800,Great price for the quality,Plates were beautiful and strong. Held up well with all the food we served.
+295,P005,A2AB7M9UCNBVN7,Maria West,3,1346976000,Loved the fun designs,The party hats were a hit! Fun designs and fit everyone comfortably.
+296,P001,ABG53EBZBKD23,Ana Rodriguez,5,1333929600,Just what we needed for our party,These balloons were perfect for our party. They lasted all day and were very colorful.
+297,P002,A1FD9E5C06UB6B,Kim Johnson,3,1301011200,Kids had so much fun,The streamers added a great touch to our decorations. Easy to hang and vibrant colors.
+298,P003,AOVROBZ8BNTP7,Alex Serrano,4,1163376000,High-quality and durable,Napkins were sturdy and absorbed spills well. Perfect for the kids' table.
+299,P004,AB30HQTI5VOLR,Daniel Carroll,5,1325116800,Perfect for themed parties,Plates were beautiful and strong. Held up well with all the food we served.
+300,P005,A2AB7M9UCNBVN7,Jason Davies,3,1346976000,Held up well throughout the party,The party hats were a hit! Fun designs and fit everyone comfortably.
