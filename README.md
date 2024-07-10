@@ -25,6 +25,7 @@ This example shows how to use Azure OpenAI from Azure SQL database to get the ve
 https://github.com/Azure-Samples/azure-sql-db-openai
 
 ### Generating SQL for Azure SQL Database using Vanna.AI
+
 This notebook runs through the process of using the `vanna` Python package to generate SQL using AI (RAG + LLMs) including connecting to a database and training.
 
 https://github.com/Azure-Samples/SQL-AI-samples/blob/main/AzureSQLDatabase/Vanna.ai/vanna_and_sql.ipynb
